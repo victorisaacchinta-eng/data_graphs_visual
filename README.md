@@ -1,4 +1,4 @@
-git clone https://github.com/Yash-rocky/My-pvt-Projects.git
+git clone https://github.com/victorisaacchinta-eng/data_graphs_visual.git
 
 cd My-pvt-Projects
 
