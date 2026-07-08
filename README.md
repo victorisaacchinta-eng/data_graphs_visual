@@ -1,1 +1,7 @@
-# data_graphs_visual
+git clone https://github.com/Yash-rocky/My-pvt-Projects.git
+
+cd My-pvt-Projects
+
+pip install pandas numpy matplotlib seaborn streamlit
+
+streamlit run "data graph visualization.py"
